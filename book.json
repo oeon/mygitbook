@@ -1,8 +1,3 @@
 {
-    "pluginsConfig": {
-        "theme-default": {
-            "styles": "styles/website.css",
-            "showLevel": true
-        }
-    }
+    "styles": "styles/website.css"
 }
