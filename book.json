@@ -1,0 +1,8 @@
+{
+    "pluginsConfig": {
+        "theme-default": {
+            "styles": "styles/website.css",
+            "showLevel": true
+        }
+    }
+}
