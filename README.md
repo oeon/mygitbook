@@ -1,3 +1,3 @@
 # mygitbook
 
-testing from GitBook Editor...
+This is a sample GitBook for testing/understanding how it works
