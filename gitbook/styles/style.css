@@ -3,6 +3,6 @@
     src: url('.//fonts/lato/Lato-Regular.woff');
 }
 
-body {
+* {
   font-family: Lato;
 }
